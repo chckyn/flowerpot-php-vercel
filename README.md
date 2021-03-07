@@ -14,7 +14,7 @@ To deploy this code in Vercel, take the following steps.
 1. Commit the change.
 1. Import the forked repository in Vercel and [configure your custom domain](https://vercel.com/docs/custom-domains#).
 
-See https://github.com/chckyn/flowerpot for an example of a configured flowerpot running on Vercel.
+See https://github.com/chckyn/notes-flowerpot for an example of a configured flowerpot running on Vercel.
 
 ## How does this work?
 
